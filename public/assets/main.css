@@ -1,0 +1,22 @@
+body{
+    min-width: 320px;
+}
+
+html,body{
+    height: 100%;
+}
+
+.wrapper{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.main{
+    flex: 1 0 auto;
+}
+
+.pagination-item{
+    margin-right: 10px;
+}

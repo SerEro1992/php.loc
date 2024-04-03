@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "wfm\\": "vendor/wfm/core/classes"
+    },
+    "require": {
+    }
+  },
+  "require": {
+    "ext-pdo": "*"
+  }
+}
